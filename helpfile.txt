@@ -1,0 +1,10 @@
+clear/:/Clears x messages from chat/:/`!clear x`
+roll/:/Generates a random number between 0 and y or x and y if x is provided/:/`!roll x y`
+repeat/:/Repeats x/:/`!repeat x`
+spotify/:/Shows what the mentioned user is listening to, shows what you're listening to if nobody is mentioned. Requires linked Spotify account/:/`!spotify @user`
+select/:/Lets you select the colour of your name from bought colours/:/`!select` lists available colours, `!select colour` changes colour.
+balance/:/Shows how many credits you have/:/`!balance`
+image/:/Searches google images with the provided term/:/`!image term`
+img/:/Searches google images with the provided term/:/`!img term`
+trivia/:/Generates a random trivia question/:/`!trivia`
+answer/:/Used for answering the latest trivia question, correct answers earn you 1000 credits/:/`!answer answer`

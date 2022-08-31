@@ -1,0 +1,10 @@
+Red/:/2000/:/:red_circle:/:/787404191605719100
+Orange/:/2000/:/:orange_circle:/:/787404263353090138
+Yellow/:/2000/:/:yellow_circle:/:/787404301411549205
+Light green/:/2000/:/:green_circle:/:/787404319829786656
+Dark green/:/2000/:/:evergreen_tree:/:/787404379790770186
+Blue/:/2000/:/:blue_circle:/:/787404491455594546
+Indigo/:/2000/:/:whale2:/:/787404536867586079
+Purple/:/2000/:/:purple_circle:/:/787404553679142944
+White/:/2000/:/:white_circle:/:/787404582086115358
+Black/:/2000/:/:black_circle:/:/787404619579916319
